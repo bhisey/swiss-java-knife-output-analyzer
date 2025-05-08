@@ -1,11 +1,12 @@
-# Cassandra sjk output Analyzer: Interactive sjk Thread Visualizer
+# Swiss Java Knife Output Analyzer: Interactive JVM Thread Dump and Performance Visualizer
 
-Cassandra sjk output Analyzer: Interactive sjk Thread Visualizer is a modern, interactive web tool for visualizing and analyzing JVM thread dump and performance logs. It helps engineers and support teams quickly identify CPU and memory allocation anomalies, thread-level bottlenecks, and performance trends in large Java applications. The tool is designed for JVM thread dump outputs (including `.txt`, `.log`, `.out`, and `.output` files) and provides synchronized, zoomable charts and sortable, paginated thread tables for deep analysis.
+The Swiss Java Knife Output Analyzer is an interactive web tool designed to visualize and analyze JVM thread dump and performance output specifically generated from the Cassandra nodetool sjk ttop command. The tool is built to help support teams quickly identify which threads are consuming the most CPU or memory, making it easier to detect bottlenecks and performance issues within Cassandra clusters.
 
+The tool efficiently processes JVM thread dump outputs (including .output, .log, and .txt files) captured using nodetool sjk ttop. It provides synchronized, zoomable charts that display application-level metrics, such as CPU usage and heap allocation, as well as detailed, sortable tables presenting per-thread statistics. This intuitive visualization makes it significantly easier to pinpoint resource-hungry threads, facilitating more efficient troubleshooting and performance optimization in large, distributed Cassandra environments.
 ---
 
 ## 🚀 **Quick Summary**
-Cassandra sjk output Analyzer: Interactive sjk Thread Visualizer is a powerful, user-friendly web app for JVM thread dump analysis. It visualizes CPU and heap allocation trends, lets you zoom and filter by time, and provides sortable, paginated thread details—making JVM troubleshooting fast and intuitive.
+Swiss Java Knife Output Analyzer: Interactive sjk Thread Visualizer is a powerful, user-friendly web app for JVM thread dump analysis. It visualizes CPU and heap allocation trends, lets you zoom and filter by time, and provides sortable, paginated thread details—making JVM troubleshooting fast and intuitive.
 
 ---
 
