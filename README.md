@@ -66,7 +66,6 @@ Swiss Java Knife Output Analyzer: Interactive sjk Thread Visualizer is a powerfu
 - Synchronized, zoomable charts for CPU and heap allocation
 - Thread table with sortable columns, timestamp, and pagination
 - Dark mode toggle
-- DataStax Support branding
 
 ---
 
